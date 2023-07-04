@@ -1,0 +1,1 @@
+Taskify is a contact management application where a user can add, delete, update and search through all the contacts added. Taskify uses jwt token as authentication and utilises mongoDb as the database for the contact and users.
